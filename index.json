@@ -3,15 +3,15 @@
  "source": "Telegram forum group 🏛️ كيف الضيافة — الأرشيف",
  "base_url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/",
  "totals": {
-  "files": 546,
+  "files": 551,
   "videos": 137,
   "photos": 8,
   "audio": 3,
-  "total_mb": 328.5,
+  "total_mb": 328.8,
   "total_video_seconds": 1025,
   "site_images": 393,
   "site_images_mb": 33.1,
-  "brand_assets": 5
+  "brand_assets": 10
  },
  "files": [
   {
@@ -5478,68 +5478,148 @@
   {
    "source": "brand",
    "category": "logos-png",
-   "variant": "أبيض",
    "file": "brand/logos-png/كيف-الضيافة-أبيض.png",
-   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-أبيض.png",
-   "kind": "logo",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A3%D8%A8%D9%8A%D8%B6.png",
    "ext": "png",
+   "bytes": 326251,
+   "kind": "logo",
+   "format": "raster",
+   "variant": "أبيض",
    "res": "2000x2000",
    "transparent": true,
-   "bytes": 326251
+   "has_text": true
   },
   {
    "source": "brand",
    "category": "logos-png",
-   "variant": "أسود",
    "file": "brand/logos-png/كيف-الضيافة-أسود.png",
-   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-أسود.png",
-   "kind": "logo",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A3%D8%B3%D9%88%D8%AF.png",
    "ext": "png",
+   "bytes": 326583,
+   "kind": "logo",
+   "format": "raster",
+   "variant": "أسود",
    "res": "2000x2000",
    "transparent": true,
-   "bytes": 326583
+   "has_text": true
   },
   {
    "source": "brand",
    "category": "logos-png",
-   "variant": "الأصلي",
    "file": "brand/logos-png/كيف-الضيافة-الأصلي.png",
-   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-الأصلي.png",
-   "kind": "logo",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A.png",
    "ext": "png",
+   "bytes": 329890,
+   "kind": "logo",
+   "format": "raster",
+   "variant": "الأصلي",
    "res": "2000x2000",
    "transparent": true,
-   "bytes": 329890
+   "has_text": true
   },
   {
    "source": "brand",
    "category": "logos-png",
-   "variant": "بيج",
    "file": "brand/logos-png/كيف-الضيافة-بيج.png",
-   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-بيج.png",
-   "kind": "logo",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A8%D9%8A%D8%AC.png",
    "ext": "png",
+   "bytes": 328001,
+   "kind": "logo",
+   "format": "raster",
+   "variant": "بيج",
    "res": "2000x2000",
    "transparent": true,
-   "bytes": 328001
+   "has_text": true
   },
   {
    "source": "brand",
    "category": "logos-png",
-   "variant": "ذهبي",
    "file": "brand/logos-png/كيف-الضيافة-ذهبي.png",
-   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-ذهبي.png",
-   "kind": "logo",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%B0%D9%87%D8%A8%D9%8A.png",
    "ext": "png",
+   "bytes": 330041,
+   "kind": "logo",
+   "format": "raster",
+   "variant": "ذهبي",
    "res": "2000x2000",
    "transparent": true,
-   "bytes": 330041
+   "has_text": true
+  },
+  {
+   "source": "brand",
+   "category": "logos-svg",
+   "file": "brand/logos-svg/رمز-فقط-بيجي-كحلي.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-svg/%D8%B1%D9%85%D8%B2-%D9%81%D9%82%D8%B7-%D8%A8%D9%8A%D8%AC%D9%8A-%D9%83%D8%AD%D9%84%D9%8A.svg",
+   "ext": "svg",
+   "bytes": 74518,
+   "kind": "logo",
+   "format": "vector",
+   "scalable": true,
+   "viewBox": "0 0 1080 1080",
+   "has_text": false,
+   "desc": "الرمز فقط (بلا نص) — بيجي مصمت داخل إطار كحلي. للأيقونات والأفاتار"
+  },
+  {
+   "source": "brand",
+   "category": "logos-svg",
+   "file": "brand/logos-svg/رمز-فقط-كحلي.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-svg/%D8%B1%D9%85%D8%B2-%D9%81%D9%82%D8%B7-%D9%83%D8%AD%D9%84%D9%8A.svg",
+   "ext": "svg",
+   "bytes": 74471,
+   "kind": "logo",
+   "format": "vector",
+   "scalable": true,
+   "viewBox": "0 0 1080 1080",
+   "has_text": false,
+   "desc": "الرمز فقط (بلا نص) — كحلي مفرّغ. للأيقونات والختم"
+  },
+  {
+   "source": "brand",
+   "category": "logos-svg",
+   "file": "brand/logos-svg/شعار-كامل-ذهبي-مصمت.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-svg/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%84-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B5%D9%85%D8%AA.svg",
+   "ext": "svg",
+   "bytes": 74497,
+   "kind": "logo",
+   "format": "vector",
+   "scalable": true,
+   "viewBox": "0 0 1080 1080",
+   "has_text": true,
+   "desc": "الشعار الكامل ذهبي بتعبئة مصمتة + النص"
+  },
+  {
+   "source": "brand",
+   "category": "logos-svg",
+   "file": "brand/logos-svg/شعار-كامل-ذهبي-مفرّغ.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-svg/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%84-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D9%81%D8%B1%D9%91%D8%BA.svg",
+   "ext": "svg",
+   "bytes": 74838,
+   "kind": "logo",
+   "format": "vector",
+   "scalable": true,
+   "viewBox": "0 0 1080 1080",
+   "has_text": true,
+   "desc": "الشعار الكامل ذهبي بخطوط مفرّغة + النص — أخف بصرياً"
+  },
+  {
+   "source": "brand",
+   "category": "logos-svg",
+   "file": "brand/logos-svg/شعار-كامل-كحلي.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-svg/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%83%D8%A7%D9%85%D9%84-%D9%83%D8%AD%D9%84%D9%8A.svg",
+   "ext": "svg",
+   "bytes": 74450,
+   "kind": "logo",
+   "format": "vector",
+   "scalable": true,
+   "viewBox": "0 0 1080 1080",
+   "has_text": true,
+   "desc": "الشعار الرئيسي — رمز مفرّغ كحلي + النص. الاستخدام الافتراضي على خلفيات فاتحة"
   }
  ],
  "sources": {
   "telegram": "قروب 🏛️ كيف الضيافة — الأرشيف",
   "website": "مشروع الموقع kaif-v3 (public/images)",
-  "brand": "هوية العلامة — شعارات بصيغ وألوان متعددة (يرسلها المالك)"
+  "brand": "هوية العلامة الرسمية — شعارات SVG متجهية + PNG شفافة"
  },
  "site_image_categories": {
   "events": 82,
@@ -5584,7 +5664,15 @@
   "watermarks/svg": 1
  },
  "brand_colors": {
-  "beige": "#D8A873",
-  "navy": "#1A254C"
+  "beige_gold": "#D8A873",
+  "navy": "#1A254C",
+  "ivory": "#F5F0E8",
+  "charcoal": "#121212"
+ },
+ "logo_guide": {
+  "primary": "brand/logos-svg/شعار-كامل-كحلي.svg",
+  "note": "SVG متجهي يكبر بلا حدود — فضّله دائماً على PNG في الطباعة والتصاميم الكبيرة",
+  "png_when": "استخدم PNG 2000×2000 عند الحاجة لراستر جاهز أو في أدوات لا تدعم SVG",
+  "mark_only": "ملفات «رمز-فقط» بلا نص — للأيقونات والأفاتار والختم فقط، لا تستخدمها كشعار رئيسي"
  }
 }
