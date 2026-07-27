@@ -3,12 +3,14 @@
  "source": "Telegram forum group 🏛️ كيف الضيافة — الأرشيف",
  "base_url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/",
  "totals": {
-  "files": 148,
+  "files": 541,
   "videos": 137,
   "photos": 8,
   "audio": 3,
-  "total_mb": 293.8,
-  "total_video_seconds": 1025
+  "total_mb": 326.9,
+  "total_video_seconds": 1025,
+  "site_images": 393,
+  "site_images_mb": 33.1
  },
  "files": [
   {
@@ -21,7 +23,8 @@
    "bytes": 2415003,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0021.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -33,7 +36,8 @@
    "bytes": 1802757,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0022.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -45,7 +49,8 @@
    "bytes": 1840015,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0023.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -57,7 +62,8 @@
    "bytes": 1893140,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0024.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -69,7 +75,8 @@
    "bytes": 2366916,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0025.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -81,7 +88,8 @@
    "bytes": 2333155,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0026.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -93,7 +101,8 @@
    "bytes": 1414386,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0027.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -105,7 +114,8 @@
    "bytes": 1308017,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0028.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -117,7 +127,8 @@
    "bytes": 2968643,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0029.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -129,7 +140,8 @@
    "bytes": 277312,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0030.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -141,7 +153,8 @@
    "bytes": 947684,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0031.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -153,7 +166,8 @@
    "bytes": 2077785,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0032.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -165,7 +179,8 @@
    "bytes": 2002736,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0033.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -177,7 +192,8 @@
    "bytes": 1775939,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0034.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -189,7 +205,8 @@
    "bytes": 1767695,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0035.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -201,7 +218,8 @@
    "bytes": 7933865,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0036.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -213,7 +231,8 @@
    "bytes": 1571410,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0037.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -225,7 +244,8 @@
    "bytes": 4168103,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0038.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -237,7 +257,8 @@
    "bytes": 436620,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0039.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -249,7 +270,8 @@
    "bytes": 685276,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0040.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -261,7 +283,8 @@
    "bytes": 1332359,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0041.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -273,7 +296,8 @@
    "bytes": 1608322,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0042.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -285,7 +309,8 @@
    "bytes": 3159172,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0043.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -297,7 +322,8 @@
    "bytes": 5827765,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0044.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -309,7 +335,8 @@
    "bytes": 3651170,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0045.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -321,7 +348,8 @@
    "bytes": 1343744,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0046.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -333,7 +361,8 @@
    "bytes": 2344983,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0047.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -345,7 +374,8 @@
    "bytes": 294190,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0048.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -357,7 +387,8 @@
    "bytes": 1843260,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0049.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -369,7 +400,8 @@
    "bytes": 208405,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0050.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -381,7 +413,8 @@
    "bytes": 210780,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0051.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -393,7 +426,8 @@
    "bytes": 1919260,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0052.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -405,7 +439,8 @@
    "bytes": 2470169,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0053.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -417,7 +452,8 @@
    "bytes": 4155580,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0054.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -429,7 +465,8 @@
    "bytes": 794707,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0055.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -441,7 +478,8 @@
    "bytes": 2501911,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0056.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -453,7 +491,8 @@
    "bytes": 1159360,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0057.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -465,7 +504,8 @@
    "bytes": 1748846,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0058.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -477,7 +517,8 @@
    "bytes": 1788842,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0059.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -489,7 +530,8 @@
    "bytes": 1074174,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0060.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -501,7 +543,8 @@
    "bytes": 3605135,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0061.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -513,7 +556,8 @@
    "bytes": 1435718,
    "date": "2026-07-27T00:01:47+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0062.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -525,7 +569,8 @@
    "bytes": 1532639,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0063.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -537,7 +582,8 @@
    "bytes": 1199559,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0064.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -549,7 +595,8 @@
    "bytes": 1203322,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0065.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -561,7 +608,8 @@
    "bytes": 1312275,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0066.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -573,7 +621,8 @@
    "bytes": 1090023,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0067.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -585,7 +634,8 @@
    "bytes": 2672276,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0068.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -597,7 +647,8 @@
    "bytes": 2644103,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0069.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -609,7 +660,8 @@
    "bytes": 2343355,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0070.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -621,7 +673,8 @@
    "bytes": 6362702,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0071.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -633,7 +686,8 @@
    "bytes": 2276132,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0072.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -645,7 +699,8 @@
    "bytes": 4179620,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0073.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -657,7 +712,8 @@
    "bytes": 2586283,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0074.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -669,7 +725,8 @@
    "bytes": 3288072,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0075.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -681,7 +738,8 @@
    "bytes": 1920748,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0076.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -693,7 +751,8 @@
    "bytes": 1665785,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0077.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -705,7 +764,8 @@
    "bytes": 3443663,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0078.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -717,7 +777,8 @@
    "bytes": 3944828,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0079.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -729,7 +790,8 @@
    "bytes": 5383037,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0080.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -741,7 +803,8 @@
    "bytes": 2269512,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0081.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -753,7 +816,8 @@
    "bytes": 923928,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0082.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -765,7 +829,8 @@
    "bytes": 1974268,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0083.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -777,7 +842,8 @@
    "bytes": 3079465,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0084.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -789,7 +855,8 @@
    "bytes": 2199114,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0085.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -801,7 +868,8 @@
    "bytes": 3783081,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0086.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -813,7 +881,8 @@
    "bytes": 1074390,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0087.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -825,7 +894,8 @@
    "bytes": 1093007,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0088.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -837,7 +907,8 @@
    "bytes": 600710,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0089.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -849,7 +920,8 @@
    "bytes": 2807324,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0090.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -861,7 +933,8 @@
    "bytes": 877289,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0091.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -873,7 +946,8 @@
    "bytes": 121705,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0092.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -885,7 +959,8 @@
    "bytes": 1588169,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0093.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -897,7 +972,8 @@
    "bytes": 2026328,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0094.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -909,7 +985,8 @@
    "bytes": 1453439,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0095.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -921,7 +998,8 @@
    "bytes": 1321196,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0096.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -933,7 +1011,8 @@
    "bytes": 5071206,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0097.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -945,7 +1024,8 @@
    "bytes": 882985,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0098.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -957,7 +1037,8 @@
    "bytes": 599101,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0099.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -969,7 +1050,8 @@
    "bytes": 1319434,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0100.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -981,7 +1063,8 @@
    "bytes": 587004,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0101.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -993,7 +1076,8 @@
    "bytes": 3710599,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0102.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1005,7 +1089,8 @@
    "bytes": 2094118,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0103.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1017,7 +1102,8 @@
    "bytes": 1556217,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0104.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1029,7 +1115,8 @@
    "bytes": 915638,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0105.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1041,7 +1128,8 @@
    "bytes": 987392,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0106.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1053,7 +1141,8 @@
    "bytes": 919137,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0107.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1065,7 +1154,8 @@
    "bytes": 2295373,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0108.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1077,7 +1167,8 @@
    "bytes": 1188115,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0109.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1089,7 +1180,8 @@
    "bytes": 675678,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0110.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1101,7 +1193,8 @@
    "bytes": 2169005,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0111.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1113,7 +1206,8 @@
    "bytes": 644475,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0112.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1125,7 +1219,8 @@
    "bytes": 1226838,
    "date": "2026-07-27T00:01:48+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0113.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1137,7 +1232,8 @@
    "bytes": 740000,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0114.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1149,7 +1245,8 @@
    "bytes": 858831,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0115.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1161,7 +1258,8 @@
    "bytes": 841011,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0116.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1173,7 +1271,8 @@
    "bytes": 612723,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0117.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1185,7 +1284,8 @@
    "bytes": 1092693,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0118.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1197,7 +1297,8 @@
    "bytes": 1445672,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0119.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1209,7 +1310,8 @@
    "bytes": 667373,
    "date": "2026-07-27T00:01:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0120.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1221,7 +1323,8 @@
    "bytes": 1459412,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0121.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1233,7 +1336,8 @@
    "bytes": 551772,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0122.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1245,7 +1349,8 @@
    "bytes": 2472348,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0123.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1257,7 +1362,8 @@
    "bytes": 1026470,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0124.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1269,7 +1375,8 @@
    "bytes": 2988101,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0125.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1281,7 +1388,8 @@
    "bytes": 10238375,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0126.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1293,7 +1401,8 @@
    "bytes": 1487586,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0127.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1305,7 +1414,8 @@
    "bytes": 2638757,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0128.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1317,7 +1427,8 @@
    "bytes": 2068494,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0129.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1329,7 +1440,8 @@
    "bytes": 3219826,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0130.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1341,7 +1453,8 @@
    "bytes": 441761,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0131.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1353,7 +1466,8 @@
    "bytes": 3616928,
    "date": "2026-07-27T00:02:05+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0132.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1365,7 +1479,8 @@
    "bytes": 1572706,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0133.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1377,7 +1492,8 @@
    "bytes": 1512069,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0134.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1389,7 +1505,8 @@
    "bytes": 2943579,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0135.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1401,7 +1518,8 @@
    "bytes": 3251109,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0136.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1413,7 +1531,8 @@
    "bytes": 2314205,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0137.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1425,7 +1544,8 @@
    "bytes": 4843655,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0138.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1437,7 +1557,8 @@
    "bytes": 1581794,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0139.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1449,7 +1570,8 @@
    "bytes": 2971719,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0140.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1461,7 +1583,8 @@
    "bytes": 1455785,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0141.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1473,7 +1596,8 @@
    "bytes": 3474380,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0142.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1485,7 +1609,8 @@
    "bytes": 3785175,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0143.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1497,7 +1622,8 @@
    "bytes": 1576010,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0144.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1509,7 +1635,8 @@
    "bytes": 1993036,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0145.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1521,7 +1648,8 @@
    "bytes": 2075633,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0146.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1533,7 +1661,8 @@
    "bytes": 1214939,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0147.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1545,7 +1674,8 @@
    "bytes": 2169330,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0148.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1557,7 +1687,8 @@
    "bytes": 2527273,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0149.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1569,7 +1700,8 @@
    "bytes": 3447338,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0150.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1581,7 +1713,8 @@
    "bytes": 3593570,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0151.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1593,7 +1726,8 @@
    "bytes": 1316466,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0152.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1605,7 +1739,8 @@
    "bytes": 2453233,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0153.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1617,7 +1752,8 @@
    "bytes": 892685,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0154.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1629,7 +1765,8 @@
    "bytes": 2367474,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0155.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1641,7 +1778,8 @@
    "bytes": 210783,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0156.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1653,7 +1791,8 @@
    "bytes": 3660214,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0157.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1665,7 +1804,8 @@
    "bytes": 1253743,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0158.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1677,7 +1817,8 @@
    "bytes": 215730,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/photos/20_0159.jpg",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 20,
@@ -1689,7 +1830,8 @@
    "bytes": 3237995,
    "date": "2026-07-27T00:02:06+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/videos/20_0160.mp4",
-   "telegram_topic": "فديوهات ومحتوى ميديا"
+   "telegram_topic": "فديوهات ومحتوى ميديا",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1701,7 +1843,8 @@
    "bytes": 7414518,
    "date": "2026-07-26T23:53:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0010.mp4",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1713,7 +1856,8 @@
    "bytes": 137151,
    "date": "2026-07-26T23:53:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0011.jpg",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1725,7 +1869,8 @@
    "bytes": 248888,
    "date": "2026-07-26T23:53:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0012.jpg",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1737,7 +1882,8 @@
    "bytes": 7388123,
    "date": "2026-07-26T23:53:49+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0013.mp4",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1749,7 +1895,8 @@
    "bytes": 94593,
    "date": "2026-07-26T23:54:42+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0016.ogg",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1761,7 +1908,8 @@
    "bytes": 39328,
    "date": "2026-07-26T23:54:42+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0017.ogg",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1773,7 +1921,8 @@
    "bytes": 704098,
    "date": "2026-07-26T23:54:58+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0018.mp4",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
   },
   {
    "topic": 2,
@@ -1785,7 +1934,3591 @@
    "bytes": 68782,
    "date": "2026-07-26T23:55:27+00:00",
    "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/client-notes/02_0019.ogg",
-   "telegram_topic": "ملاحظات العميل"
+   "telegram_topic": "ملاحظات العميل",
+   "source": "telegram"
+  },
+  {
+   "source": "website",
+   "category": "badges",
+   "file": "site-images/badges/commerce.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/badges/commerce.svg",
+   "kind": "image",
+   "ext": "svg",
+   "bytes": 32916
+  },
+  {
+   "source": "website",
+   "category": "badges",
+   "file": "site-images/badges/sbc.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/badges/sbc.svg",
+   "kind": "image",
+   "ext": "svg",
+   "bytes": 27730
+  },
+  {
+   "source": "website",
+   "category": "badges",
+   "file": "site-images/badges/zatca.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/badges/zatca.svg",
+   "kind": "image",
+   "ext": "svg",
+   "bytes": 17067
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/arak-sous.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/arak-sous.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 120874
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/fresh-juice.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/fresh-juice.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 133796
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/iced-latte.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/iced-latte.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 30876
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/karkade.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/karkade.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 56674
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/mojito.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/mojito.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 24388
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/smoothie.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/smoothie.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 18582
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/sobia.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/sobia.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 40008
+  },
+  {
+   "source": "website",
+   "category": "cold-drinks",
+   "file": "site-images/cold-drinks/tamarind.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/cold-drinks/tamarind.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 59058
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/dates-assorted.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/dates-assorted.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 26706
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/dates-plain.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/dates-plain.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 23184
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/khalas-sesame-tahini.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/khalas-sesame-tahini.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 55440
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/khalas-stuffed.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/khalas-stuffed.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 55060
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/palm-khalas-stuffed.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/palm-khalas-stuffed.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 46642
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/palm-sukari-stuffed.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/palm-sukari-stuffed.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 89492
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/palm-sukari.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/palm-sukari.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 88342
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/stuffed-dates-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/stuffed-dates-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 15484
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/stuffed-dates-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/stuffed-dates-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 71602
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/stuffed-dates-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/stuffed-dates-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 63204
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/stuffed-dates.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/stuffed-dates.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 81778
+  },
+  {
+   "source": "website",
+   "category": "dates",
+   "file": "site-images/dates/sukari-stuffed.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/dates/sukari-stuffed.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 136112
+  },
+  {
+   "source": "website",
+   "category": "distributions",
+   "file": "site-images/distributions/jeddah-vip-dates-dessert-gahwa-gift-tray.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/distributions/jeddah-vip-dates-dessert-gahwa-gift-tray.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 105500
+  },
+  {
+   "source": "website",
+   "category": "distributions",
+   "file": "site-images/distributions/ksa-dates-arabic-sweets-gahwa-distribution.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/distributions/ksa-dates-arabic-sweets-gahwa-distribution.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 93376
+  },
+  {
+   "source": "website",
+   "category": "distributions",
+   "file": "site-images/distributions/riyadh-luxury-hospitality-gift-tray-qahwa-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/distributions/riyadh-luxury-hospitality-gift-tray-qahwa-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 100154
+  },
+  {
+   "source": "website",
+   "category": "distributions",
+   "file": "site-images/distributions/saudi-luxury-palm-date-sweets-distribution.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/distributions/saudi-luxury-palm-date-sweets-distribution.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 53616
+  },
+  {
+   "source": "website",
+   "category": "distributions",
+   "file": "site-images/distributions/saudi-vip-majlis-dates-gahwa-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/distributions/saudi-vip-majlis-dates-gahwa-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 101476
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/arabic-coffee-gahwa-ornate-glass-cup-set-equipment.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/arabic-coffee-gahwa-ornate-glass-cup-set-equipment.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 69228
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/jeddah-luxury-ornate-tea-cup-saucer.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/jeddah-luxury-ornate-tea-cup-saucer.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 80938
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/jeddah-vip-majlis-golden-arabic-coffee-stand.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/jeddah-vip-majlis-golden-arabic-coffee-stand.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 116706
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/ksa-golden-buffet-tray-glass-cups-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/ksa-golden-buffet-tray-glass-cups-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 119484
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/ksa-luxury-qahwa-golden-glass-cup-stand-majlis.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/ksa-luxury-qahwa-golden-glass-cup-stand-majlis.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 102700
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/luxury-clear-ribbed-glass-cup-saucer-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/luxury-clear-ribbed-glass-cup-saucer-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51416
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/luxury-clear-stemmed-goblet-glass-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/luxury-clear-stemmed-goblet-glass-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 38696
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/luxury-faceted-tea-cup-transparent-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/luxury-faceted-tea-cup-transparent-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 57256
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/luxury-saudi-white-coffee-cup-saucer.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/luxury-saudi-white-coffee-cup-saucer.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 40412
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/riyadh-luxury-arabic-coffee-glass-cup-dessert-table.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/riyadh-luxury-arabic-coffee-glass-cup-dessert-table.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 84724
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/royal-golden-dallah-coffee-pot-saudi-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/royal-golden-dallah-coffee-pot-saudi-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 35798
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/royal-saudi-gold-qahwa-dates-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/royal-saudi-gold-qahwa-dates-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 124760
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-arabic-coffee-emblem-handled-mug-golden-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-arabic-coffee-emblem-handled-mug-golden-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 47162
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-arabic-coffee-vip-golden-cup-stand-majlis.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-arabic-coffee-vip-golden-cup-stand-majlis.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 124452
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-ceremonial-golden-tray-white-cups-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-ceremonial-golden-tray-white-cups-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 42000
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-clear-cup-saucer-golden-stripes-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-clear-cup-saucer-golden-stripes-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 48664
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-gold-palm-gahwa-cups-set.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-gold-palm-gahwa-cups-set.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 59028
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-golden-striped-tea-cup-saucer-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-golden-striped-tea-cup-saucer-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 44304
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-hospitality-glass-tea-set-equipment.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-hospitality-glass-tea-set-equipment.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 148112
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-luxury-gold-rimmed-emblem-coffee-pot.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-luxury-gold-rimmed-emblem-coffee-pot.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51742
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-luxury-hospitality-white-porcelain-cup-saucer.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-luxury-hospitality-white-porcelain-cup-saucer.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 20798
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-luxury-ornate-tea-glass-golden-silver-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-luxury-ornate-tea-glass-golden-silver-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 59168
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-luxury-silver-dallah-arabic-coffee-equipment.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-luxury-silver-dallah-arabic-coffee-equipment.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 52030
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-silver-dallah-serveware-luxury-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-silver-dallah-serveware-luxury-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 28578
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-traditional-ribbed-glass-tea-cup-set.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-traditional-ribbed-glass-tea-cup-set.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 37270
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/saudi-vip-hospitality-golden-coffee-cup-stand-event.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/saudi-vip-hospitality-golden-coffee-cup-stand-event.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 62122
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/traditional-saudi-clear-glass-qahwa-cup.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/traditional-saudi-clear-glass-qahwa-cup.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 70698
+  },
+  {
+   "source": "website",
+   "category": "equipment",
+   "file": "site-images/equipment/vip-saudi-golden-dallah-dates-table.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/equipment/vip-saudi-golden-dallah-dates-table.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 45736
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/conference-catering-hospitality-staff-medical-college-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/conference-catering-hospitality-staff-medical-college-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 113418
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/conference-catering-saudi-electricity-company-dates-tray-luxury.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/conference-catering-saudi-electricity-company-dates-tray-luxury.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 89300
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/conference-catering-saudi-hosts-vip-reception-dallah-albaraka.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/conference-catering-saudi-hosts-vip-reception-dallah-albaraka.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 60430
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-almana-medical-group-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-almana-medical-group-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 49332
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-dallah-hajj-transport-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-dallah-hajj-transport-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 67306
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-exhibition-makkiyoon-traditional-attire-qahwa.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-exhibition-makkiyoon-traditional-attire-qahwa.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 101080
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-formal-reception-umm-al-qura-university-saudi-hosts.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-formal-reception-umm-al-qura-university-saudi-hosts.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 98732
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-hospitality-staff-formal-reception-saudi-hosts.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-hospitality-staff-formal-reception-saudi-hosts.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 111104
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-indoor-cybersecurity-awareness-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-indoor-cybersecurity-awareness-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 144102
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-qahwa-service-luxury-catering-basma-emaar.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-qahwa-service-luxury-catering-basma-emaar.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 102080
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-saudi-host-qahwa-office-reception-traditional.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-saudi-host-qahwa-office-reception-traditional.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 99412
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-vip-reception-dallah-albaraka-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-vip-reception-dallah-albaraka-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 82466
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/corporate-event-vip-suzuki-showroom-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/corporate-event-vip-suzuki-showroom-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 83332
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-alrifadah-pilgrims-services-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-alrifadah-pilgrims-services-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 67818
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-hospitality-rawahil-al-mashaer-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-hospitality-rawahil-al-mashaer-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 81028
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-hospitality-staff-almadina-hotel-resorts-saudi-event.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-hospitality-staff-almadina-hotel-resorts-saudi-event.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 128488
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-saudi-event-nayifat-financing-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-saudi-event-nayifat-financing-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 63252
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-saudi-hosts-amak-minerals-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-saudi-hosts-amak-minerals-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 79068
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/exhibition-vip-reception-foot-locker-coffee-kiosk.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/exhibition-vip-reception-foot-locker-coffee-kiosk.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 105194
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/expo-jimny-ksa-club-saudi-hosts-gift-presentation.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/expo-jimny-ksa-club-saudi-hosts-gift-presentation.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 64102
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/formal-reception-government-event-majad-booth-arabic-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/formal-reception-government-event-majad-booth-arabic-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 125884
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/formal-reception-hospitality-staff-york-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/formal-reception-hospitality-staff-york-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 88330
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/formal-reception-indoor-event-saudi-hosts-luxury-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/formal-reception-indoor-event-saudi-hosts-luxury-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 101476
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/formal-reception-saudi-hosts-al-amjaad-office-traditional.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/formal-reception-saudi-hosts-al-amjaad-office-traditional.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 78642
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/gala-dinner-vip-reception-royal-protocol-marble-luxury.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/gala-dinner-vip-reception-royal-protocol-marble-luxury.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 121474
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/government-event-hospitality-staff-ceremonial-coffee-ministry-transport.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/government-event-hospitality-staff-ceremonial-coffee-ministry-transport.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 111406
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/government-event-ministry-of-media-official-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/government-event-ministry-of-media-official-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 60092
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/government-event-official-ceremony-madinah-municipality-arabic-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/government-event-official-ceremony-madinah-municipality-arabic-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 134298
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/government-event-official-ceremony-saudi-electricity-luxury-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/government-event-official-ceremony-saudi-electricity-luxury-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 91288
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/government-event-official-ceremony-saudi-hosts-grand-opening.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/government-event-official-ceremony-saudi-hosts-grand-opening.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 140530
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/hotel-event-dallah-taibah-luxury-catering-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/hotel-event-dallah-taibah-luxury-catering-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 139276
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/indoor-event-exhibition-york-booth-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/indoor-event-exhibition-york-booth-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 127160
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/indoor-event-luxury-catering-ceremonial-coffee-exhibition-reception.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/indoor-event-luxury-catering-ceremonial-coffee-exhibition-reception.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 79922
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/indoor-event-new-balance-foot-locker-coffee-booth.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/indoor-event-new-balance-foot-locker-coffee-booth.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 115636
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/indoor-event-saudi-hosts-bisht-qahwa-service-traditional.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/indoor-event-saudi-hosts-bisht-qahwa-service-traditional.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 140796
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/indoor-event-traditional-attire-ceremonial-coffee-female-guest.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/indoor-event-traditional-attire-ceremonial-coffee-female-guest.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 50484
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/jeddah-event-formal-reception-private-aviation-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/jeddah-event-formal-reception-private-aviation-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 80054
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/jeddah-event-marble-hall-osus-alinsha-vip-reception.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/jeddah-event-marble-hall-osus-alinsha-vip-reception.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 108726
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-arabic-coffee-ceremony-masked-host-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-arabic-coffee-ceremony-masked-host-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 118484
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-corporate-event-takween-al-watan-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-corporate-event-takween-al-watan-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 97958
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-exhibition-dallah-albarka-dates-tray-ceremonial.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-exhibition-dallah-albarka-dates-tray-ceremonial.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 64116
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-exhibition-hafil-pink-luxury-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-exhibition-hafil-pink-luxury-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 99344
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-exhibition-hospitality-staff-hajj-conference.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-exhibition-hospitality-staff-hajj-conference.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 140604
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-exhibition-luxury-catering-food-booth-dates-tray.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-exhibition-luxury-catering-food-booth-dates-tray.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 41762
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-luxury-catering-mcdc-conference-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-luxury-catering-mcdc-conference-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 91154
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-official-ceremony-turkish-pilgrims-office-luxury.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-official-ceremony-turkish-pilgrims-office-luxury.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 88864
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-qahwa-service-corporate-event-tawkeel.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-qahwa-service-corporate-event-tawkeel.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 112256
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-qahwa-service-hospitality-staff-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-qahwa-service-hospitality-staff-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 145036
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/ksa-event-vip-reception-arabic-coffee-flyadeal-corporate.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/ksa-event-vip-reception-arabic-coffee-flyadeal-corporate.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 50076
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/luxury-catering-arabic-coffee-ceremony-gala-dinner-indoor.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/luxury-catering-arabic-coffee-ceremony-gala-dinner-indoor.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 127242
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/luxury-catering-foot-locker-sneaker-host-ceremonial.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/luxury-catering-foot-locker-sneaker-host-ceremonial.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 73620
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/luxury-catering-saudi-hosts-glory-of-luxury-indoor-event.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/luxury-catering-saudi-hosts-glory-of-luxury-indoor-event.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 90184
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/majlis-qahwa-service-saudi-event-camel-decor.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/majlis-qahwa-service-saudi-event-camel-decor.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 148388
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/majlis-traditional-attire-dates-tower-ceremonial-coffee-display.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/majlis-traditional-attire-dates-tower-ceremonial-coffee-display.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 146496
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/marble-hall-makkah-hotel-towers-saudi-hosts-dates-tray.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/marble-hall-makkah-hotel-towers-saudi-hosts-dates-tray.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51456
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/official-ceremony-grand-opening-saudi-hosts-red-backdrop.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/official-ceremony-grand-opening-saudi-hosts-red-backdrop.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 143456
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/official-ceremony-hospitality-staff-umm-al-qura-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/official-ceremony-hospitality-staff-umm-al-qura-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 143906
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/official-ceremony-saudi-hosts-traditional-attire-vip-reception.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/official-ceremony-saudi-hosts-traditional-attire-vip-reception.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 131680
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/outdoor-event-nahda-park-arabic-coffee-formal-reception.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/outdoor-event-nahda-park-arabic-coffee-formal-reception.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 92508
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/outdoor-event-tourism-booth-expo-saudi-host-coffee-set.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/outdoor-event-tourism-booth-expo-saudi-host-coffee-set.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 144104
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/qahwa-service-bon-cafe-arabic-coffee-ceremony-corporate.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/qahwa-service-bon-cafe-arabic-coffee-ceremony-corporate.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 93646
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/riyadh-event-vip-reception-alinma-booth-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/riyadh-event-vip-reception-alinma-booth-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 69670
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/royal-protocol-vip-reception-makkah-hotel-towers-majlis.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/royal-protocol-vip-reception-makkah-hotel-towers-majlis.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 117414
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-conference-catering-bci-counter-ceremonial-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-conference-catering-bci-counter-ceremonial-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 132228
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-conference-catering-dareen-travel-agency-indoor.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-conference-catering-dareen-travel-agency-indoor.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 84708
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-corporate-al-safir-masked-hospitality.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-corporate-al-safir-masked-hospitality.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 90836
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-formal-reception-makkah-themed-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-formal-reception-makkah-themed-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 87470
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-hifawa-vip-traditional-attire-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-hifawa-vip-traditional-attire-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 77744
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-luxury-catering-hospitality-staff-saja-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-luxury-catering-hospitality-staff-saja-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 102290
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-qahwa-service-hospitality-staff-exhibition-booth.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-qahwa-service-hospitality-staff-exhibition-booth.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 117998
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-arabic-coffee-ceremony-camel-decor-indoor.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-arabic-coffee-ceremony-camel-decor-indoor.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 34904
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-arabic-coffee-masked-host-exhibition.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-arabic-coffee-masked-host-exhibition.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 53712
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-aviation-booth-arabic-coffee-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-aviation-booth-arabic-coffee-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 129070
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-bolt-exhibition-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-bolt-exhibition-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 119422
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-luxury-catering-majlis-traditional-attire.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-luxury-catering-majlis-traditional-attire.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 140820
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-luxury-retail-traditional-attire.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-luxury-retail-traditional-attire.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 55550
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-makkah-halal-forum-coffee-lounge.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-makkah-halal-forum-coffee-lounge.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 82958
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-event-vip-reception-suzuki-exhibition-arabic-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-event-vip-reception-suzuki-exhibition-arabic-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 77466
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/saudi-hosts-ceremonial-coffee-expo-makkah-hotel-booth.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/saudi-hosts-ceremonial-coffee-expo-makkah-hotel-booth.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 94230
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/vip-reception-corporate-event-aljar-marina-qahwa-service.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/vip-reception-corporate-event-aljar-marina-qahwa-service.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 147406
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/vip-reception-luxury-catering-menswear-boutique-host.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/vip-reception-luxury-catering-menswear-boutique-host.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 107036
+  },
+  {
+   "source": "website",
+   "category": "events",
+   "file": "site-images/events/vip-reception-luxury-catering-millennium-hotels-golden-dallah.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/events/vip-reception-luxury-catering-millennium-hotels-golden-dallah.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 115510
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-carved-watermelon-vip-event-fruit-display.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-carved-watermelon-vip-event-fruit-display.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 145676
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-figs-luxury-hospitality-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-figs-luxury-hospitality-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 60746
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-mango-cubes-luxury-hospitality-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-mango-cubes-luxury-hospitality-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51692
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-pineapple-slices-premium-catering-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-pineapple-slices-premium-catering-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 193360
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-pomegranate-premium-catering-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-pomegranate-premium-catering-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 120306
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-sliced-kiwi-luxury-hospitality-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-sliced-kiwi-luxury-hospitality-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 204712
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-fresh-strawberries-luxury-hospitality-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-fresh-strawberries-luxury-hospitality-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 213252
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-mixed-berries-bowl-premium-catering-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-mixed-berries-bowl-premium-catering-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 250824
+  },
+  {
+   "source": "website",
+   "category": "fruits",
+   "file": "site-images/fruits/saudi-red-green-grapes-premium-catering-fruit.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/fruits/saudi-red-green-grapes-premium-catering-fruit.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 249596
+  },
+  {
+   "source": "website",
+   "category": "hero",
+   "file": "site-images/hero/hero-desktop.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hero/hero-desktop.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 237306
+  },
+  {
+   "source": "website",
+   "category": "hero",
+   "file": "site-images/hero/hero-mobile.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hero/hero-mobile.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 188984
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/cappuccino.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/cappuccino.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 118244
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/ginger-pineapple.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/ginger-pineapple.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 142480
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/green-tea.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/green-tea.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 152230
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/karak-tea.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/karak-tea.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 67598
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/red-tea.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/red-tea.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 156380
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/sahlab.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/sahlab.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 64416
+  },
+  {
+   "source": "website",
+   "category": "hot-drinks",
+   "file": "site-images/hot-drinks/turkish-coffee.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/hot-drinks/turkish-coffee.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 138940
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-cinnamon-nuts-noix-luxury-hospitality-display.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-cinnamon-nuts-noix-luxury-hospitality-display.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 48412
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-cinnamon-roasted-nuts-noix-premium-luxury.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-cinnamon-roasted-nuts-noix-premium-luxury.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 221770
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-noix-fine-food-chocolate-butter-granola-trio.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-noix-fine-food-chocolate-butter-granola-trio.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 154980
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-noix-granola-premium-mixed-nuts-collage.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-noix-granola-premium-mixed-nuts-collage.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 140982
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-noix-luxury-granola-zaatar-cinnamon-nuts-range.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-noix-luxury-granola-zaatar-cinnamon-nuts-range.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 58854
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-roasted-hazelnut-zaatar-nuts-noix-premium.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-roasted-hazelnut-zaatar-nuts-noix-premium.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 37930
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-salted-caramel-granola-noix-premium.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-salted-caramel-granola-noix-premium.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 44422
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-salted-caramel-nuts-noix-luxury-premium.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-salted-caramel-nuts-noix-luxury-premium.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 63070
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-super-q-granola-mixed-nuts-oats-luxury.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-super-q-granola-mixed-nuts-oats-luxury.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 75572
+  },
+  {
+   "source": "website",
+   "category": "nuts",
+   "file": "site-images/nuts/saudi-zaatar-granola-noix-luxury-arabian-flavor.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/nuts/saudi-zaatar-granola-noix-luxury-arabian-flavor.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 58704
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/01_Olayan_Group.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/01_Olayan_Group.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2960
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/02_Schneider_Electric.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/02_Schneider_Electric.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 1400
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/03_Najeeb_Auto_Suzuki.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/03_Najeeb_Auto_Suzuki.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 4624
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/04_WSM_Digital.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/04_WSM_Digital.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2118
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/05_Mokab.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/05_Mokab.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2112
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/06_MyClinic.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/06_MyClinic.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 4396
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/07_Al_Ahli_FC.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/07_Al_Ahli_FC.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 7490
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/08_Benchmark.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/08_Benchmark.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3804
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/09_Fuchs_KSA.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/09_Fuchs_KSA.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2688
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/10_Milia_Travel.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/10_Milia_Travel.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 8340
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/11_Al_Mousa_Group.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/11_Al_Mousa_Group.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3686
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/12_Damanat.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/12_Damanat.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2778
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/13_Daam_Broker.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/13_Daam_Broker.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 8886
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/14_Munera_Alessa.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/14_Munera_Alessa.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2348
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/15_Somer.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/15_Somer.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 8344
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/16_Napco_National.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/16_Napco_National.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 6934
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/17_Saudi_Binladen_Group.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/17_Saudi_Binladen_Group.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 9422
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/18_Glamera.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/18_Glamera.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3228
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/19_Sharq_Jeddah_Association.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/19_Sharq_Jeddah_Association.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 6664
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/20_Olayan_Group_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/20_Olayan_Group_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2960
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/21_Najeeb_Auto_Suzuki_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/21_Najeeb_Auto_Suzuki_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 4420
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/22_WSM_Digital_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/22_WSM_Digital_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2118
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/23_Benchmark_Strategy.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/23_Benchmark_Strategy.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3650
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/24_Fuchs_KSA_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/24_Fuchs_KSA_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 5848
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/25_Damanat_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/25_Damanat_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2022
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/26_Napco_National_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/26_Napco_National_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 7684
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/27_Binladin_Holding.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/27_Binladin_Holding.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 1932
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/28_Glamera_Alt.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/28_Glamera_Alt.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 5184
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/29_Bahja_Events.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/29_Bahja_Events.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 6280
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/30_Hamat_Leading.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/30_Hamat_Leading.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 7692
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/dallah.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/dallah.svg",
+   "kind": "image",
+   "ext": "svg",
+   "bytes": 74497
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 20860
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-10.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-10.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 11224
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-11.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-11.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3960
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-12.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-12.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2508
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-13.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-13.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 7688
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-14.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-14.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 29396
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-15.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-15.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 14466
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-16.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-16.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 10432
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-17.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-17.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 17364
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-18.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-18.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 17108
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-19.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-19.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 25060
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 9314
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-20.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-20.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 21916
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-21.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-21.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 3690
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-22.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-22.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 13588
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-23.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-23.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 18938
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-24.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-24.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 10328
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-25.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-25.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 9688
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-26.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-26.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 23864
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-27.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-27.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 14916
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-28.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-28.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 21736
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-29.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-29.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 15546
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 34692
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-30.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-30.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 19106
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-31.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-31.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 9376
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-32.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-32.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2808
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-33.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-33.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 4580
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-34.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-34.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 5228
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-35.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-35.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 2654
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-36.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-36.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 18952
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 17622
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 12506
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 30158
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-7.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-7.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 16320
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-8.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-8.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 16122
+  },
+  {
+   "source": "website",
+   "category": "partners",
+   "file": "site-images/partners/partner-9.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/partners/partner-9.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 5140
+  },
+  {
+   "source": "website",
+   "category": "pastry",
+   "file": "site-images/pastry/appetizers.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/pastry/appetizers.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 46882
+  },
+  {
+   "source": "website",
+   "category": "pastry",
+   "file": "site-images/pastry/arabic-pastry.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/pastry/arabic-pastry.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 105118
+  },
+  {
+   "source": "website",
+   "category": "pastry",
+   "file": "site-images/pastry/assorted-pastry.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/pastry/assorted-pastry.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 100676
+  },
+  {
+   "source": "website",
+   "category": "pastry",
+   "file": "site-images/pastry/fruit-pie.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/pastry/fruit-pie.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 28658
+  },
+  {
+   "source": "website",
+   "category": "pastry",
+   "file": "site-images/pastry/samosa.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/pastry/samosa.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 39954
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-chicken-cheese-sandwich-long-roll.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-chicken-cheese-sandwich-long-roll.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 63576
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-grilled-chicken-sandwich-lettuce-cheese.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-grilled-chicken-sandwich-lettuce-cheese.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 46438
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-smoked-turkey-cheese-tomato-sandwich.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-smoked-turkey-cheese-tomato-sandwich.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 54086
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-tuna-salad-sandwich-long-roll.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-tuna-salad-sandwich-long-roll.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 68736
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-tuna-sandwich-sesame-bun.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-tuna-sandwich-sesame-bun.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 53972
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-turkey-cheese-tomato-long-sandwich.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-turkey-cheese-tomato-long-sandwich.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 58472
+  },
+  {
+   "source": "website",
+   "category": "sandwiches",
+   "file": "site-images/sandwiches/saudi-catering-turkey-sandwich-soft-roll-tomato.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sandwiches/saudi-catering-turkey-sandwich-soft-roll-tomato.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 41758
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 114942
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-10.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-10.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 270322
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-11.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-11.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 170240
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 43072
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 19220
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51172
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 35466
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 61404
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-7.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-7.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 160118
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-8.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-8.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 270322
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/artist",
+   "file": "site-images/services/artistic/artist/artist-9.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/artist/artist-9.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 170240
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/buffet",
+   "file": "site-images/services/artistic/buffet/buffet-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/buffet/buffet-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 272700
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/buffet",
+   "file": "site-images/services/artistic/buffet/buffet-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/buffet/buffet-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 259062
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/buffet",
+   "file": "site-images/services/artistic/buffet/buffet-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/buffet/buffet-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 182682
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/counter",
+   "file": "site-images/services/artistic/counter/counter-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/counter/counter-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 332466
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/counter",
+   "file": "site-images/services/artistic/counter/counter-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/counter/counter-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 473320
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/folkband",
+   "file": "site-images/services/artistic/folkband/folkband-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/folkband/folkband-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 251370
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/folkband",
+   "file": "site-images/services/artistic/folkband/folkband-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/folkband/folkband-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 282020
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/heritage-tent",
+   "file": "site-images/services/artistic/heritage-tent/tent-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/heritage-tent/tent-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 219538
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/heritage-tent",
+   "file": "site-images/services/artistic/heritage-tent/tent-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/heritage-tent/tent-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 185984
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/heritage-tent",
+   "file": "site-images/services/artistic/heritage-tent/tent-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/heritage-tent/tent-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 216414
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/heritage-tent",
+   "file": "site-images/services/artistic/heritage-tent/tent-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/heritage-tent/tent-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 178082
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 125354
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 173462
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 78910
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 202986
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 181140
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/mobile-table",
+   "file": "site-images/services/artistic/mobile-table/table-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/mobile-table/table-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 229204
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 181830
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 126308
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 145084
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 101658
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 173522
+  },
+  {
+   "source": "website",
+   "category": "services/artistic/photo-booth",
+   "file": "site-images/services/artistic/photo-booth/photo-booth-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/artistic/photo-booth/photo-booth-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 184262
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 46026
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 76332
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 70034
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 60956
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 35746
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 50596
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-7.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-7.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 75274
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-8.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-8.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 33798
+  },
+  {
+   "source": "website",
+   "category": "services/female-services",
+   "file": "site-images/services/female-services/female-main-bg.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female-services/female-main-bg.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 178090
+  },
+  {
+   "source": "website",
+   "category": "services/female/cleaning",
+   "file": "site-images/services/female/cleaning/cleaning-f-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/cleaning/cleaning-f-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 174218
+  },
+  {
+   "source": "website",
+   "category": "services/female/cleaning",
+   "file": "site-images/services/female/cleaning/cleaning-f-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/cleaning/cleaning-f-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 38222
+  },
+  {
+   "source": "website",
+   "category": "services/female",
+   "file": "site-images/services/female/female-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/female-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 174218
+  },
+  {
+   "source": "website",
+   "category": "services/female",
+   "file": "site-images/services/female/female-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/female-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 38222
+  },
+  {
+   "source": "website",
+   "category": "services/female/hostesses",
+   "file": "site-images/services/female/hostesses/hostess-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/hostesses/hostess-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 174218
+  },
+  {
+   "source": "website",
+   "category": "services/female/hostesses",
+   "file": "site-images/services/female/hostesses/hostess-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/hostesses/hostess-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 38222
+  },
+  {
+   "source": "website",
+   "category": "services/female/safarjiat",
+   "file": "site-images/services/female/safarjiat/safarjia-f-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/safarjiat/safarjia-f-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 42430
+  },
+  {
+   "source": "website",
+   "category": "services/female/safarjiat",
+   "file": "site-images/services/female/safarjiat/safarjia-f-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/female/safarjiat/safarjia-f-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 62698
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla-janbiya",
+   "file": "site-images/services/male/hosts/dagla-janbiya/dagla-janbiya-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla-janbiya/dagla-janbiya-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 102942
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla-janbiya",
+   "file": "site-images/services/male/hosts/dagla-janbiya/dagla-janbiya-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla-janbiya/dagla-janbiya-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 150290
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 86716
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 48890
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 145622
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 70018
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51834
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/dagla",
+   "file": "site-images/services/male/hosts/dagla/dagla-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/dagla/dagla-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 11228
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/hizam",
+   "file": "site-images/services/male/hosts/hizam/hizam-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/hizam/hizam-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 71620
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/hizam",
+   "file": "site-images/services/male/hosts/hizam/hizam-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/hizam/hizam-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 236408
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/makkawi",
+   "file": "site-images/services/male/hosts/makkawi/makkawi-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/makkawi/makkawi-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 94886
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/makkawi",
+   "file": "site-images/services/male/hosts/makkawi/makkawi-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/makkawi/makkawi-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 102630
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/sideriya",
+   "file": "site-images/services/male/hosts/sideriya/sideriya-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/sideriya/sideriya-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 1133606
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/sideriya",
+   "file": "site-images/services/male/hosts/sideriya/sideriya-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/sideriya/sideriya-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 85624
+  },
+  {
+   "source": "website",
+   "category": "services/male/hosts/sideriya",
+   "file": "site-images/services/male/hosts/sideriya/sideriya-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/hosts/sideriya/sideriya-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 73858
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 42430
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 62698
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 57860
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 22464
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 96816
+  },
+  {
+   "source": "website",
+   "category": "services/male/safarjia",
+   "file": "site-images/services/male/safarjia/safarjia-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/safarjia/safarjia-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 45490
+  },
+  {
+   "source": "website",
+   "category": "services/male/sawas",
+   "file": "site-images/services/male/sawas/sawas-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/sawas/sawas-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 326102
+  },
+  {
+   "source": "website",
+   "category": "services/male/sawas",
+   "file": "site-images/services/male/sawas/sawas-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/sawas/sawas-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 289974
+  },
+  {
+   "source": "website",
+   "category": "services/male/sawas",
+   "file": "site-images/services/male/sawas/sawas-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/sawas/sawas-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 116280
+  },
+  {
+   "source": "website",
+   "category": "services/male/sawas",
+   "file": "site-images/services/male/sawas/sawas-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/sawas/sawas-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 166336
+  },
+  {
+   "source": "website",
+   "category": "services/male/sawas",
+   "file": "site-images/services/male/sawas/sawas-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/sawas/sawas-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 419702
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 62944
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 125354
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 55484
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 174850
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-5.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-5.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 80304
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-6.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-6.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 66560
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-7.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-7.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 13036
+  },
+  {
+   "source": "website",
+   "category": "services/male/souqiya",
+   "file": "site-images/services/male/souqiya/souqiya-8.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/male/souqiya/souqiya-8.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 29208
+  },
+  {
+   "source": "website",
+   "category": "services/safarjia",
+   "file": "site-images/services/safarjia/safarji-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/safarjia/safarji-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 22398
+  },
+  {
+   "source": "website",
+   "category": "services/safarjia",
+   "file": "site-images/services/safarjia/safarji-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/safarjia/safarji-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 33300
+  },
+  {
+   "source": "website",
+   "category": "services/safarjia",
+   "file": "site-images/services/safarjia/safarji-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/safarjia/safarji-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 34434
+  },
+  {
+   "source": "website",
+   "category": "services/safarjia",
+   "file": "site-images/services/safarjia/safarji-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/safarjia/safarji-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 58164
+  },
+  {
+   "source": "website",
+   "category": "services/safarjia",
+   "file": "site-images/services/safarjia/safarjia-main-bg.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/safarjia/safarjia-main-bg.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 28902
+  },
+  {
+   "source": "website",
+   "category": "services/sawas",
+   "file": "site-images/services/sawas/sawas-main.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/sawas/sawas-main.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 129780
+  },
+  {
+   "source": "website",
+   "category": "services/sawas",
+   "file": "site-images/services/sawas/sawas-style-1.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/sawas/sawas-style-1.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 111648
+  },
+  {
+   "source": "website",
+   "category": "services/sawas",
+   "file": "site-images/services/sawas/sawas-style-2.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/sawas/sawas-style-2.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 81918
+  },
+  {
+   "source": "website",
+   "category": "services/sawas",
+   "file": "site-images/services/sawas/sawas-style-3.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/sawas/sawas-style-3.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 80886
+  },
+  {
+   "source": "website",
+   "category": "services/sawas",
+   "file": "site-images/services/sawas/sawas-style-4.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/services/sawas/sawas-style-4.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 96302
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/coffee-cups.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/coffee-cups.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 31324
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/coffee-dallah.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/coffee-dallah.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 27314
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/coffee-finjan.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/coffee-finjan.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 30688
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/coffee-glass.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/coffee-glass.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 25434
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/coffee-mug.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/coffee-mug.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 20440
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/glass-cup.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/glass-cup.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 22840
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/glass-tea-cup.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/glass-tea-cup.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 26662
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/golden-dallah.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/golden-dallah.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 28320
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/tea-cup.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/tea-cup.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 24256
+  },
+  {
+   "source": "website",
+   "category": "serving-equipment",
+   "file": "site-images/serving-equipment/white-tea-cup.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/serving-equipment/white-tea-cup.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 41042
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-crispy-chicken-popcorn-bites-honey-mustard.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-crispy-chicken-popcorn-bites-honey-mustard.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 113116
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-crispy-golden-potato-wedges-rosemary-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-crispy-golden-potato-wedges-rosemary-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 99436
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-crispy-mozzarella-cheese-sticks-marinara-snacks.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-crispy-mozzarella-cheese-sticks-marinara-snacks.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 98414
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-crispy-spring-rolls-sweet-chili-luxury-snacks.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-crispy-spring-rolls-sweet-chili-luxury-snacks.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 85342
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-golden-potato-cheese-croquettes-luxury-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-golden-potato-cheese-croquettes-luxury-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 132746
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-gourmet-finger-food-assortment-canapes-vip.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-gourmet-finger-food-assortment-canapes-vip.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 136384
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-italian-bruschetta-tomato-basil-luxury-appetizer.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-italian-bruschetta-tomato-basil-luxury-appetizer.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 124602
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-loaded-nachos-cheese-jalapeno-vip-snacks.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-loaded-nachos-cheese-jalapeno-vip-snacks.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 131938
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-mini-beef-sliders-cheese-luxury-catering.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-mini-beef-sliders-cheese-luxury-catering.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 76718
+  },
+  {
+   "source": "website",
+   "category": "snacks",
+   "file": "site-images/snacks/saudi-mini-margherita-pizza-luxury-catering-finger-food.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/snacks/saudi-mini-margherita-pizza-luxury-catering-finger-food.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 116482
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/baklava.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/baklava.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 90690
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/bostani-chocolate.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/bostani-chocolate.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 89144
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/chocolate-croissant.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/chocolate-croissant.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 68854
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/kunafa.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/kunafa.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 48936
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/pancake.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/pancake.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 30352
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/patchi-chocolate.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/patchi-chocolate.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 31400
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-elegant-dessert-buffet-panna-cotta-shooters.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-elegant-dessert-buffet-panna-cotta-shooters.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 150132
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-elegant-dessert-station-mango-panna-cotta-red-velvet.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-elegant-dessert-station-mango-panna-cotta-red-velvet.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 122758
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-fruit-platter-baklava-pistachio-dessert.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-fruit-platter-baklava-pistachio-dessert.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 149886
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-luxury-dessert-buffet-chocolate-mousse-basbousa.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-luxury-dessert-buffet-chocolate-mousse-basbousa.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 130010
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-luxury-dessert-buffet-mini-cakes-shooters.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-luxury-dessert-buffet-mini-cakes-shooters.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 128458
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-luxury-dessert-station-fresh-fruit-mix.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-luxury-dessert-station-fresh-fruit-mix.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 315144
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-luxury-dessert-station-fruit-mousse-cups.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-luxury-dessert-station-fruit-mousse-cups.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 117676
+  },
+  {
+   "source": "website",
+   "category": "sweets",
+   "file": "site-images/sweets/saudi-traditional-baklava-kunafa-pistachio-fruit-platter.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/sweets/saudi-traditional-baklava-kunafa-pistachio-fruit-platter.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 144764
+  },
+  {
+   "source": "website",
+   "category": "watermarks/svg",
+   "file": "site-images/watermarks/svg/logo-1.svg",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/watermarks/svg/logo-1.svg",
+   "kind": "image",
+   "ext": "svg",
+   "bytes": 74497
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/arab-wedding-hall-men-section-male-hosts-marble.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/arab-wedding-hall-men-section-male-hosts-marble.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 11228
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/arab-wedding-male-host-qahwa-station-vip-wedding.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/arab-wedding-male-host-qahwa-station-vip-wedding.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 122638
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/arab-wedding-men-section-wedding-decoration-qahwa-station.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/arab-wedding-men-section-wedding-decoration-qahwa-station.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 148872
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/jeddah-wedding-men-section-traditional-uniform-luxury-wedding.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/jeddah-wedding-men-section-traditional-uniform-luxury-wedding.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 152246
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/luxury-wedding-decoration-male-hosts-traditional-uniform.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/luxury-wedding-decoration-male-hosts-traditional-uniform.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 150290
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/luxury-wedding-hall-male-hosts-dallah-gift-tray.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/luxury-wedding-hall-male-hosts-dallah-gift-tray.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 129460
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/luxury-wedding-men-section-traditional-uniform-wedding-hall.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/luxury-wedding-men-section-traditional-uniform-wedding-hall.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 125734
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/qahwa-station-male-host-dallah-wedding-hall-ceremony.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/qahwa-station-male-host-dallah-wedding-hall-ceremony.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 60742
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/riyadh-wedding-vip-wedding-hall-male-host.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/riyadh-wedding-vip-wedding-hall-male-host.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 128840
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-male-host-arabic-coffee-luxury-wedding.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-male-host-arabic-coffee-luxury-wedding.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 74470
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-male-host-coffee-vip-wedding-hall.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-male-host-coffee-vip-wedding-hall.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 118780
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-male-host-dallah-dates-qahwa-station.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-male-host-dallah-dates-qahwa-station.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 81486
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-men-section-male-host-dallah-traditional.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-men-section-male-host-dallah-traditional.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 51834
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-qahwa-station-dallah-white-thobe.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-qahwa-station-dallah-white-thobe.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 106700
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-traditional-uniform-male-hosts-white-thobe.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-traditional-uniform-male-hosts-white-thobe.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 85624
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/saudi-wedding-vip-wedding-hall-host-dallah-flag.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/saudi-wedding-vip-wedding-hall-host-dallah-flag.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 97012
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/vip-wedding-traditional-uniform-dallah-wedding-hall.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/vip-wedding-traditional-uniform-dallah-wedding-hall.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 145622
+  },
+  {
+   "source": "website",
+   "category": "weddings",
+   "file": "site-images/weddings/wedding-coffee-male-host-dallah-tray-white-thobe.webp",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/site-images/weddings/wedding-coffee-male-host-dallah-tray-white-thobe.webp",
+   "kind": "image",
+   "ext": "webp",
+   "bytes": 73858
   }
- ]
+ ],
+ "sources": {
+  "telegram": "قروب 🏛️ كيف الضيافة — الأرشيف",
+  "website": "مشروع الموقع kaif-v3 (public/images)"
+ },
+ "site_image_categories": {
+  "events": 82,
+  "partners": 67,
+  "equipment": 28,
+  "weddings": 18,
+  "sweets": 14,
+  "dates": 12,
+  "services/artistic/artist": 11,
+  "nuts": 10,
+  "serving-equipment": 10,
+  "snacks": 10,
+  "fruits": 9,
+  "services/female-services": 9,
+  "cold-drinks": 8,
+  "services/male/souqiya": 8,
+  "hot-drinks": 7,
+  "sandwiches": 7,
+  "services/artistic/mobile-table": 6,
+  "services/artistic/photo-booth": 6,
+  "services/male/hosts/dagla": 6,
+  "services/male/safarjia": 6,
+  "distributions": 5,
+  "pastry": 5,
+  "services/male/sawas": 5,
+  "services/safarjia": 5,
+  "services/sawas": 5,
+  "services/artistic/heritage-tent": 4,
+  "badges": 3,
+  "services/artistic/buffet": 3,
+  "services/male/hosts/sideriya": 3,
+  "hero": 2,
+  "services/artistic/counter": 2,
+  "services/artistic/folkband": 2,
+  "services/female/cleaning": 2,
+  "services/female": 2,
+  "services/female/hostesses": 2,
+  "services/female/safarjiat": 2,
+  "services/male/hosts/dagla-janbiya": 2,
+  "services/male/hosts/hizam": 2,
+  "services/male/hosts/makkawi": 2,
+  "watermarks/svg": 1
+ }
 }

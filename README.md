@@ -1,16 +1,17 @@
 # كيف الضيافة — أرشيف الميديا / Keif Al-Diyafa Media Archive
 
-أرشيف ميديا مشروع **كيف الضيافة**، مصدَّر من قروب تيليجرام `🏛️ كيف الضيافة — الأرشيف`.
+أرشيف ميديا مشروع **كيف الضيافة** — من مصدرين: قروب تيليجرام `🏛️ كيف الضيافة — الأرشيف` + صور موقع المشروع (`kaif-v3`).
 
 ## 📊 الإحصائيات / Stats
 
 | البند | العدد |
 |---|---|
-| إجمالي الملفات | **148** |
-| فيديو | **137** |
-| صور | **8** |
-| صوتيات | **3** |
-| الحجم الكلي | **294 MB** |
+| **إجمالي الملفات** | **541** |
+| فيديو | 137 |
+| صور موقع (webp/svg/png) | **393** |
+| صور تيليجرام | 8 |
+| صوتيات | 3 |
+| الحجم الكلي | **327 MB** |
 | مدة الفيديو الكلية | **17 دقيقة** (1025 ثانية) |
 
 ## 📂 البنية / Structure
@@ -20,8 +21,25 @@ videos/        134 مقطع من موضوع "فديوهات ومحتوى ميد�
 photos/          6 صور من نفس الموضوع
 client-notes/    8 ملفات من موضوع "ملاحظات العميل"
                  (3 صوتيات + 3 فيديو + 2 صور)
+site-images/   393 صورة من موقع كيف الضيافة، مرتّبة بفئات:
+                 events/ partners/ equipment/ weddings/ sweets/
+                 dates/ nuts/ fruits/ snacks/ hot-drinks/ cold-drinks/
+                 sandwiches/ pastry/ serving-equipment/ distributions/
+                 hero/ badges/ watermarks/ services/…
 index.json     فهرس كامل بروابط مباشرة + بيانات وصفية
 ```
+
+### فئات صور الموقع الكبرى
+
+| الفئة | العدد |
+|---|---|
+| `events/` | 82 |
+| `partners/` | 67 |
+| `equipment/` | 28 |
+| `weddings/` | 18 |
+| `sweets/` | 14 |
+| `dates/` | 12 |
+| `services/**` | ~90 (رجالية/نسائية/فنية) |
 
 ## 🏷️ التسمية / Naming
 
@@ -44,10 +62,14 @@ https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/index.json
 {
   "project": "كيف الضيافة — أرشيف الميديا",
   "base_url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/",
-  "totals": { "files": 148, "videos": 137, "photos": 8, "audio": 3,
-              "total_mb": 293.8, "total_video_seconds": 1025 },
+  "totals": { "files": 541, "videos": 137, "photos": 8, "audio": 3,
+              "site_images": 393, "total_mb": 326.9,
+              "total_video_seconds": 1025 },
+  "sources": { "telegram": "...", "website": "..." },
+  "site_image_categories": { "events": 82, "partners": 67, "...": 0 },
   "files": [
     {
+      "source": "telegram",
       "topic": 20,
       "telegram_topic": "فديوهات ومحتوى ميديا",
       "msg_id": 21,
@@ -58,10 +80,22 @@ https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/index.json
       "res": "1280x720",
       "bytes": 2415003,
       "date": "2026-07-27T00:01:47+00:00"
+    },
+    {
+      "source": "website",
+      "category": "events",
+      "file": "site-images/events/xxx.webp",
+      "url": "https://raw.githubusercontent.com/.../site-images/events/xxx.webp",
+      "kind": "image",
+      "ext": "webp",
+      "bytes": 84213
     }
   ]
 }
 ```
+
+فلترة بالمصدر: `source == "telegram"` أو `source == "website"`.
+فلترة صور الموقع بالفئة: `category == "events"`.
 
 كل ملف فيه `url` مباشر — لا يحتاج مصادقة، حمّله بـ `curl`/`wget` مباشرة.
 
@@ -83,7 +117,7 @@ curl -s https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/ind
 
 **الصوت:** `audio/ogg` (رسائل صوتية: 16 / 30 / 40 ثانية)
 
-**الصور:** `image/jpeg`
+**الصور:** تيليجرام `image/jpeg` · الموقع 388 `webp` + 11 `svg` + 6 `png` + 2 `jpg`
 
 ## ⚠️ ملاحظة / Note
 
