@@ -3,14 +3,15 @@
  "source": "Telegram forum group 🏛️ كيف الضيافة — الأرشيف",
  "base_url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/",
  "totals": {
-  "files": 541,
+  "files": 546,
   "videos": 137,
   "photos": 8,
   "audio": 3,
-  "total_mb": 326.9,
+  "total_mb": 328.5,
   "total_video_seconds": 1025,
   "site_images": 393,
-  "site_images_mb": 33.1
+  "site_images_mb": 33.1,
+  "brand_assets": 5
  },
  "files": [
   {
@@ -5473,11 +5474,72 @@
    "kind": "image",
    "ext": "webp",
    "bytes": 73858
+  },
+  {
+   "source": "brand",
+   "category": "logos-png",
+   "variant": "أبيض",
+   "file": "brand/logos-png/كيف-الضيافة-أبيض.png",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-أبيض.png",
+   "kind": "logo",
+   "ext": "png",
+   "res": "2000x2000",
+   "transparent": true,
+   "bytes": 326251
+  },
+  {
+   "source": "brand",
+   "category": "logos-png",
+   "variant": "أسود",
+   "file": "brand/logos-png/كيف-الضيافة-أسود.png",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-أسود.png",
+   "kind": "logo",
+   "ext": "png",
+   "res": "2000x2000",
+   "transparent": true,
+   "bytes": 326583
+  },
+  {
+   "source": "brand",
+   "category": "logos-png",
+   "variant": "الأصلي",
+   "file": "brand/logos-png/كيف-الضيافة-الأصلي.png",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-الأصلي.png",
+   "kind": "logo",
+   "ext": "png",
+   "res": "2000x2000",
+   "transparent": true,
+   "bytes": 329890
+  },
+  {
+   "source": "brand",
+   "category": "logos-png",
+   "variant": "بيج",
+   "file": "brand/logos-png/كيف-الضيافة-بيج.png",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-بيج.png",
+   "kind": "logo",
+   "ext": "png",
+   "res": "2000x2000",
+   "transparent": true,
+   "bytes": 328001
+  },
+  {
+   "source": "brand",
+   "category": "logos-png",
+   "variant": "ذهبي",
+   "file": "brand/logos-png/كيف-الضيافة-ذهبي.png",
+   "url": "https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/brand/logos-png/كيف-الضيافة-ذهبي.png",
+   "kind": "logo",
+   "ext": "png",
+   "res": "2000x2000",
+   "transparent": true,
+   "bytes": 330041
   }
  ],
  "sources": {
   "telegram": "قروب 🏛️ كيف الضيافة — الأرشيف",
-  "website": "مشروع الموقع kaif-v3 (public/images)"
+  "website": "مشروع الموقع kaif-v3 (public/images)",
+  "brand": "هوية العلامة — شعارات بصيغ وألوان متعددة (يرسلها المالك)"
  },
  "site_image_categories": {
   "events": 82,
@@ -5520,5 +5582,9 @@
   "services/male/hosts/hizam": 2,
   "services/male/hosts/makkawi": 2,
   "watermarks/svg": 1
+ },
+ "brand_colors": {
+  "beige": "#D8A873",
+  "navy": "#1A254C"
  }
 }

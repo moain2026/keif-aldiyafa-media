@@ -6,7 +6,8 @@
 
 | البند | العدد |
 |---|---|
-| **إجمالي الملفات** | **541** |
+| **إجمالي الملفات** | **546** |
+| شعارات الهوية | **5** |
 | فيديو | 137 |
 | صور موقع (webp/svg/png) | **393** |
 | صور تيليجرام | 8 |
@@ -26,8 +27,29 @@ site-images/   393 صورة من موقع كيف الضيافة، مرتّبة �
                  dates/ nuts/ fruits/ snacks/ hot-drinks/ cold-drinks/
                  sandwiches/ pastry/ serving-equipment/ distributions/
                  hero/ badges/ watermarks/ services/…
+brand/         أصول الهوية الرسمية:
+  logos-png/     5 شعارات 2000×2000 شفافة (أبيض · أسود · ذهبي · بيج · الأصلي)
 index.json     فهرس كامل بروابط مباشرة + بيانات وصفية
 ```
+
+### 🎨 ألوان العلامة
+
+| اللون | HEX |
+|---|---|
+| بيجي | `#D8A873` |
+| كحلي | `#1A254C` |
+
+### 🏷️ شعارات `brand/logos-png/`
+
+| النسخة | الاستخدام |
+|---|---|
+| الأصلي | الاستخدام الرسمي |
+| أبيض | خلفيات غامقة / صور داكنة |
+| أسود | خلفيات فاتحة / طباعة |
+| ذهبي | تصاميم فاخرة |
+| بيج | خلفيات داكنة ناعمة |
+
+كلها `2000×2000` PNG بخلفية شفافة، والرسمة مفرّغة (الخطوط فقط).
 
 ### فئات صور الموقع الكبرى
 
@@ -94,8 +116,28 @@ https://raw.githubusercontent.com/moain2026/keif-aldiyafa-media/main/index.json
 }
 ```
 
-فلترة بالمصدر: `source == "telegram"` أو `source == "website"`.
+وأصول الهوية:
+
+```json
+{
+  "source": "brand",
+  "category": "logos-png",
+  "variant": "ذهبي",
+  "file": "brand/logos-png/كيف-الضيافة-ذهبي.png",
+  "url": "https://raw.githubusercontent.com/.../brand/logos-png/...",
+  "kind": "logo",
+  "ext": "png",
+  "res": "2000x2000",
+  "transparent": true,
+  "bytes": 330041
+}
+```
+
+فلترة بالمصدر: `source == "telegram"` أو `"website"` أو `"brand"`.
 فلترة صور الموقع بالفئة: `category == "events"`.
+فلترة الشعارات بالنسخة: `variant == "أبيض"`.
+
+⚠️ ملاحظة للوكلاء: أسماء ملفات `brand/` عربية — استخدم حقل `url` الجاهز (مُرمَّز URL-encoded) لا `file`.
 
 كل ملف فيه `url` مباشر — لا يحتاج مصادقة، حمّله بـ `curl`/`wget` مباشرة.
 
